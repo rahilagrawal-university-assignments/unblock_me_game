@@ -1,0 +1,2 @@
+#!/bin/sh
+rm src/*.class 2>&1 > /dev/null

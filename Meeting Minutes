@@ -1,0 +1,41 @@
+22/04 1100-1320
+
+Assignment Specification:
+  Tasks:
+    - Making Gridlock
+    - JavaFX (SE8)
+    - Assign Scrum roles
+
+  Extensions (By priority):
+    - Difficulty (ratio of number of cars : grid size)
+    - Leaderboard
+    - Animation
+    - Customised grid size
+
+  Specification:
+    - Random generating puzzles
+
+  Process of the project:
+    - User/epic stories
+    - High level design
+    - Detailed design
+    - UML diagram
+    - Testing:
+      * Unit testing
+      * Integration testing
+    - Implementation:
+      * Algorithm
+      * Graphics
+
+  Scrum Roles Assignment:
+    - Scrum master: Alexander
+    - Product manager: Joel
+    - Subcontractor: Aditya
+    - Developer: Everyone
+
+Todo for today:
+  - User stories
+  - Detailed design
+  
+For next meeting (27/04):
+  - Class diagram
